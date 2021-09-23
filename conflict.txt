@@ -1,1 +1,4 @@
 Some text in new conflict file
+And some new text
+And on
+And on...
