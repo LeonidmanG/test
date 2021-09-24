@@ -3,3 +3,4 @@ Untest text
 Hello world!
 Some new text
 Another new line!
+New line with new branch!
